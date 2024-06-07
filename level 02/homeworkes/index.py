@@ -6,3 +6,6 @@ print(name0)
 print(name1)
 print(name2)
 print(name3)
+points = 35
+points = 45
+print(points)   
