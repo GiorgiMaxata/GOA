@@ -5,6 +5,11 @@ print(5 < 3 or 5 > 3 )
 
 print(7 < 4 and 4 > 7)
 
+print( 9 > 3 and 5 > 8)
+
+print(2 > 7 or 9 > 1 )
+
+print(3> 2 and 9 < 2 )
 
 
 
